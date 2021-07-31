@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/home_icon_black">
+        </item>
+    </group>
+
+    <item
+        android:title="Download">
+        <menu>
+            <group
+                android:id="@+id/group2"
+                android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/nav_download_app"
+                    android:title="My Apps in PlayStore"
+                    android:icon="@drawable/download_icon">
+                </item>
+
+            </group>
+        </menu>
+    </item>
+
+    <group
+        android:id="@+id/group3"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_about_developer"
+            android:title="About Developer"
+            android:icon="@drawable/developer_icon">
+        </item>
+
+    </group>
+
+    <group
+        android:id="@+id/group4"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_rate_app"
+            android:title="Rate App"
+            android:icon="@drawable/rate_icon">
+        </item>
+
+    </group>
+
+    <group
+        android:id="@+id/group5"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_share_app"
+            android:title="Share App"
+            android:icon="@drawable/share_icon">
+        </item>
+    </group>
+
+</menu>

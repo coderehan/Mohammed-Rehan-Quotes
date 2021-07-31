@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rehan Quotes</string>
+
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+    <string name="about_developer">This Android Application is Designed and Developed by "<b>Mohammed Rehan</b>". Am a Tech Enthusiastic and Self-Taught Programmer who is passionate about writing codes and building apps. Outside of this tech world, I write quotes too. I love writing quotes and inspiring people. So far I have written 250+ quotes and I thought why not to make an app on my quotes only that will fit together in 1 app. So finally the dream came true. I made an Android App on my quotes which I have been writing so far. I write quotes based on my practical life experience. You wil find quotes on inspiration , motivation, life lessons, programming etc. \n\n I believe Success is not only about how much you accomplish in your life. It also about how many people got inspiration from you and made a difference in their lives. \n\n Happy Reading Quotes!!!</string>
+
+</resources>
